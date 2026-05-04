@@ -3,7 +3,7 @@ title: "クラスとモジュールは別物だった ── JavaScriptエンジ
 emoji: "🦀"
 type: "tech"
 topics: ["rust", "javascript", "入門"]
-published: false
+published: true
 ---
 
 ## はじめに
